@@ -39,12 +39,5 @@ Robotul funcționează corespunzător într-un mediu de testare, dar se pot aduc
 - Adăugarea unui accelerometru pe utilizator
 - Comunicație Bluetooth pentru urmărire precisă
 
-## 📚 Bibliografie
 
-- Arduino Documentation: https://docs.arduino.cc/
-- SG90 Servo Datasheet
-- Proiecte similare: https://projecthub.arduino.cc/
-- Resurse academice UPT și DSpace
-
-## 📁 Structura proiectului (recomandare pentru GitHub)
 
